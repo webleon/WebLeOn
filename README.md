@@ -1,1 +1,1 @@
-[![WebLeOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon)](https://github.com/webleon)
+[![WebLeOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon)](https://github.com/webleon&show_icons=true)
