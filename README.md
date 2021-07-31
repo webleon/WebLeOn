@@ -1,2 +1,2 @@
 
-![WebLeOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon&hide=issues&show_icons=true)
+![WebLeOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon&hide=issues&show_icons=true&text_color=0366d6)
