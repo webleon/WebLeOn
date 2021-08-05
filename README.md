@@ -1,7 +1,7 @@
 
 ![WebLeOn's GitHub stats](https://github-readme-stats.vercel.app/api?username=webleon&hide=issues&show_icons=true)
 
-### 📕 Latest Blog Posts
+### 📒 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [关于黑苹果睡眠的一些命令和参数](https://www.webleon.me/2021/08/blog-post.html)
